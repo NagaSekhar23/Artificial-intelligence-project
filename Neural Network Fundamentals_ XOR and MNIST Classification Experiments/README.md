@@ -4,10 +4,10 @@ This repository contains two Jupyter Notebook assignments that explore foundatio
 
 ## Overview
 
-- **Assignment 3 - Problem 2.ipynb**  
+- ** 2.ipynb**  
   Demonstrates why the XOR problem is not linearly separable and how a simple Multi-Layer Perceptron (MLP) with a hidden layer and non-linear activation can solve it perfectly.
 
-- **Assignment 3 - Problem 1.ipynb**  
+- ** 1.ipynb**  
   Implements a flexible MLP for image classification on both the classic handwritten digits MNIST and Fashion-MNIST datasets, with support for different activations, optimizers, and performance visualization.
 
 ## Assignment 3 - Problem 2: Solving XOR with MLPs
